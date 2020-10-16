@@ -1,0 +1,2 @@
+<a href="{{ $url_edit }}" class="btn btn-warning btn-xs modalShowX" title="Form Update User"><i class="fa fa-fw fa-edit"></i> Edit</a>
+<a href="{{ $url_destroy }}" class="btn btn-danger btn-xs delete"><i class="fa fa-fw fa-trash"></i> Hapus</a>
